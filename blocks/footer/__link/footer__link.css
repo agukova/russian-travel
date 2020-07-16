@@ -1,0 +1,33 @@
+.footer__link {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.12;
+    color: #FFFFFF;
+    margin: 0 5% 6.7% 0;
+    text-decoration-line: none;
+}
+
+@media (max-width: 646px) {
+    .footer__link {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin: 0 0 32px;
+        text-decoration-line: none;
+    }
+}
+
+@media (max-width: 320px) {
+    .footer__link {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 24px;
+        color: #FFFFFF;
+        margin: 0 0 32px;
+        text-decoration-line: none;
+    }
+}

@@ -1,0 +1,13 @@
+.cover__overlay {
+    max-width: 100%;
+    background: rgba(0, 0, 0, 0.3);
+    transition: 0.3s ease-in-out 0.3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cover__overlay:hover {
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.6);
+    transition: 0.3s ease-in-out 0.3s;
+}

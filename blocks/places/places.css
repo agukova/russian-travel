@@ -1,0 +1,31 @@
+@import url(./__place/places__place.css);
+
+.places {
+    max-width: 77%;
+    padding: 7.9% 0 0;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+}
+
+@media (max-width: 1024px) {
+    .places {
+        max-width: 90.7%;
+        padding-top: 10.2%;
+    }
+}
+
+@media (max-width: 768px) {
+    .places {
+        max-width: 93.7%;
+        padding-top: 12.2%;
+    }
+}
+
+@media (max-width: 505px) {
+    .places {
+        max-width: 100%;
+        padding-top: 21%;
+    }
+}

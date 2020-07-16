@@ -1,0 +1,45 @@
+.lead__subtitle {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 1.2;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0 17.5% 6.5%;
+}
+
+@media (max-width: 680px) {
+    .lead__subtitle {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 1.25;
+        text-align: center;
+        color: #FFFFFF;
+        margin: 0 5% 12.5%;
+    }
+}
+
+@media (max-width: 425px) {
+    .lead__subtitle {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 1.25;
+        text-align: center;
+        color: #FFFFFF;
+        margin: 0 5% 12.5%;
+    }
+}
+
+@media (max-width: 320px) {
+    .lead__subtitle {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 1.25;
+        text-align: center;
+        color: #FFFFFF;
+        margin: 0 5% 12.5%;
+    }
+}

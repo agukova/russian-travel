@@ -1,0 +1,13 @@
+.places__place_image {
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center;
+}
+
+@media (max-width: 505px) {
+    .places__place_image {
+        max-width: 100%;
+        margin-bottom: 10%;
+        overflow: hidden;
+    }
+}
