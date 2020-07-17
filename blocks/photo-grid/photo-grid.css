@@ -1,4 +1,4 @@
-@import url(./_item/photo-grid_item.css);
+@import url(./__item/photo-grid__item.css);
 
 .photo-grid {
     max-width: 92.5%;
@@ -31,16 +31,6 @@
 }
 
 @media (max-width: 425px) {
-    .photo-grid {
-        max-width: 90%;
-        grid-template-columns: 100%;
-        grid-template-rows: repeat(12, 1fr);
-        gap: 12px;
-        padding-top: 20%;
-    }
-}
-
-@media (max-width: 320px) {
     .photo-grid {
         max-width: 90%;
         grid-template-columns: 100%;

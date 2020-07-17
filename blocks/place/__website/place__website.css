@@ -1,0 +1,17 @@
+.place__website {
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    align-self: end;
+    margin-bottom: 1%;
+}
+
+.place__website:hover {
+    cursor: pointer;
+}
+
+@media (max-width: 505px) {
+    .place__website {
+        display: none;
+    }
+}

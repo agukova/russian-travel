@@ -52,16 +52,3 @@
 
     }
 }
-
-@media (max-width: 320px) {
-    .cover__subtitle {
-        font-weight: normal;
-        font-size: 14px;
-        line-height: 16px;
-        text-align: center;
-        color: #FFFFFF;
-        max-width: 87%;
-        margin: 4% 0 9.2%;
-
-    }
-}

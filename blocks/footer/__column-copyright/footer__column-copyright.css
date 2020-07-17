@@ -15,11 +15,3 @@
         text-align: left;
     }
 }
-
-@media (max-width: 320px) {
-    .footer__column-copyright {
-        margin-top: 5%;
-        line-height: 14px;
-        text-align: left;
-    }
-}

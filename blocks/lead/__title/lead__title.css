@@ -26,26 +26,3 @@
     }
 }
 
-@media (max-width: 425px) {
-    .lead__title {
-        font-style: normal;
-        font-weight: 900;
-        font-size: 40px;
-        line-height: 44px;
-        text-align: center;
-        color: #FFFFFF;
-        margin: 0 13.4% 5%;
-    }
-}
-
-@media (max-width: 320px) {
-    .lead__title {
-        font-style: normal;
-        font-weight: 900;
-        font-size: 40px;
-        line-height: 44px;
-        text-align: center;
-        color: #FFFFFF;
-        margin: 0 13.4% 5%;
-    }
-}
