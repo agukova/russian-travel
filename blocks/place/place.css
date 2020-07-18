@@ -6,7 +6,6 @@
 @import url(./__paragraphs/place__paragraphs.css);
 @import url(./__paragraph/place__paragraph.css);
 
-
 .place {
     max-width: 100%;
     display: grid;

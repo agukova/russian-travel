@@ -10,22 +10,16 @@
 
 @media (max-width: 768px) {
     .place__title {
-        font-style: normal;
-        font-weight: 900;
         font-size: 42px;
         line-height: 1.1;
-        color: #FFFFFF;
         letter-spacing: 0.8px;
     }
 }
 
 @media (max-width: 505px) {
     .place__title {
-        font-style: normal;
-        font-weight: 900;
         font-size: 32px;
         line-height: 1.09;
-        color: #FFFFFF;
         align-self: start;
         margin: 0 5% 10% 5%;
     }

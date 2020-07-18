@@ -6,10 +6,6 @@
     margin-bottom: 1%;
 }
 
-.place__website:hover {
-    cursor: pointer;
-}
-
 @media (max-width: 505px) {
     .place__website {
         display: none;

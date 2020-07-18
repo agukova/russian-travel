@@ -3,9 +3,3 @@
     object-fit: contain;
     object-position: center;
 }
-
-@media (max-width: 768px) {
-    .lead__image {
-        max-width: 100%;
-    }
-}

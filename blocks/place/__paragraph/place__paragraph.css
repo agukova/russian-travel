@@ -14,21 +14,15 @@
 
 @media (max-width: 768px) {
     .place__paragraph {
-        font-style: normal;
-        font-weight: normal;
         font-size: 16px;
         line-height: 26px;
-        color: #FFFFFF;
     }
 }
 
 @media (max-width: 505px) {
     .place__paragraph {
-        font-style: normal;
-        font-weight: normal;
         font-size: 16px;
         line-height: 26px;
-        color: #FFFFFF;
         margin: 0 5% 0;
     }
     .place__paragraph:last-of-type {
