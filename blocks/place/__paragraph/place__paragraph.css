@@ -21,8 +21,6 @@
 
 @media (max-width: 505px) {
     .place__paragraph {
-        font-size: 16px;
-        line-height: 26px;
         margin: 0 5% 0;
     }
     .place__paragraph:last-of-type {
